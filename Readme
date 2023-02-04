@@ -1,0 +1,2 @@
+Enable DSE  - bcdedit /set testsigning on
+ Disable DSE - bcdedit /set testsigning off
